@@ -4,7 +4,7 @@
 Python script that organizes the working directory files according to their
 name.
 
-CORRECT USAGE: python organize.py [-v] [-h|-s|-f]
+CORRECT USAGE: python3 organize.py [-v] [-h|-s|-f]
   * -v -> enable verbose mode
   * -h o --help
   * -s o --secure -> copy files
