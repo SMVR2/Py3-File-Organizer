@@ -1,5 +1,5 @@
 #Originally Made by Noelia Sales Montes
-#Brought to python3 and edited by Sam Morris
+#Brought to python3 and edited by Sam Sysnomid
 """
 Python script that organizes the working directory files according to their
 name.
